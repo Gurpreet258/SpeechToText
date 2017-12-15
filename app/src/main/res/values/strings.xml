@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VoiceCommands</string>
+    <string name="error_audio_error">Audio error</string>
+    <string name="error_client">Client Error</string>
+    <string name="error_permission">Permissions error</string>
+    <string name="error_network">Network Error</string>
+    <string name="error_timeout">Timeout Error</string>
+    <string name="error_no_match">Error no match</string>
+    <string name="error_understand">unknown error</string>
+    <string name="error_server">server error</string>
+    <string name="error_busy">network error</string>
+</resources>
